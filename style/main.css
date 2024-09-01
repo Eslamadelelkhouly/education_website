@@ -1,3 +1,6 @@
+body{
+    font-family: "Amaranth", sans-serif;
+}
 .nav-link {
     position: relative;
     padding-bottom: 5px;
@@ -13,4 +16,18 @@
     bottom: 0;
     left: 0;
     background-color: #026086; 
+}
+
+.btn{
+    background-color: #8a2be2;
+}
+
+.btn:hover{
+    background-color:#6c18ba ;
+}
+
+.banner_image{
+    width: 60%;
+    margin: 0 auto;
+    display: block;
 }
